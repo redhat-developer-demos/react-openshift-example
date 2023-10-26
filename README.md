@@ -5,7 +5,7 @@ The [Developer Sandbox for Red Hat OpenShift](https://developers.redhat.com/deve
 Follow these steps to start your sandbox instance and deploy your React app:
 
 1.  Create a Red Hat Sandbox account using [https://developers.redhat.com/developer-sandbox](https://developers.redhat.com/developer-sandbox)
-2.  Once you have the account and are signed in, On the left side menu, click on +Add.
+2.  Once you have the account and are signed in, On the left side menu, click on **+Add**.
     
 3.  Select **Import from Git**.
     
@@ -18,7 +18,7 @@ Follow these steps to start your sandbox instance and deploy your React app:
 
 7.  Choose a Resource Type field, please choose either Deployment or Serverless Deployment (default option) depending on your preference.
     
-8.  Select Target Port under Advanced options to define the port **3000** that will receive the container's traffic.
+8.  Select **Target Port** under Advanced options to define the port 3000 that will receive the container's traffic.
     
 9.  Click on **Create**.
     
